@@ -4,6 +4,13 @@ Twitter : https://twitter.com/perukii_pc<br>
 Qiita : https://qiita.com/Perukii<br>
 GitHub (for Public purpose) : https://github.com/TadaTeruki<br>
 
+### Status
+
+![Perukii's github stats](https://github-readme-stats.vercel.app/api?username=Perukii&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perukii&hide=html,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)
+
+About these status cards : [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ### Works
 
