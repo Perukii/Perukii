@@ -1,16 +1,16 @@
-### Hi there 👋
+# Perukii
 
-<!--
-**Perukii/Perukii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Twitter : https://twitter.com/perukii_pc<br>
+Qiita : https://qiita.com/Perukii<br>
+GitHub (for Public purpose) : https://github.com/TadaTeruki<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Works
+
+[![MiteWM](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=MiteWM)](https://github.com/Perukii/MiteWM)
+![doga-mite3-tw](https://user-images.githubusercontent.com/57752033/89913574-d77b2680-dc2e-11ea-96b6-35621d58071a.gif)
+
+[![mulpsi](https://github-readme-stats.vercel.app/api/pin/?username=TadaTeruki&repo=mulpsi)](https://github.com/TadaTeruki/mulpsi)
+[![sanmitsu-wm](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=sanmitsu-wm)](https://github.com/Perukii/sanmitsu-wm)
+
+and so on...
