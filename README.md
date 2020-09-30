@@ -18,8 +18,8 @@ About these status cards : [github-readme-stats](https://github.com/anuraghazra/
 ![mitewmLogo_fixed](https://user-images.githubusercontent.com/57752033/89993531-d21aec00-dcc1-11ea-9c34-277f7a109c75.png)
 
 
-
 [![mulpsi](https://github-readme-stats.vercel.app/api/pin/?username=TadaTeruki&repo=mulpsi)](https://github.com/TadaTeruki/mulpsi)
 [![sanmitsu-wm](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=sanmitsu-wm)](https://github.com/Perukii/sanmitsu-wm)
+[![goTextAdv](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=goTextAdv)](https://github.com/Perukii/goTextAdv)
 
 and so on...
