@@ -21,5 +21,6 @@ About these status cards : [github-readme-stats](https://github.com/anuraghazra/
 [![mulpsi](https://github-readme-stats.vercel.app/api/pin/?username=TadaTeruki&repo=mulpsi)](https://github.com/TadaTeruki/mulpsi)
 [![sanmitsu-wm](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=sanmitsu-wm)](https://github.com/Perukii/sanmitsu-wm)
 [![goTextAdv](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=goTextAdv)](https://github.com/Perukii/goTextAdv)
+[![cairo_picker](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=cairo_picker)](https://github.com/Perukii/cairo_picker)
 
 and so on...
