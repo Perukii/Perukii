@@ -1,5 +1,7 @@
 # Perukii
 
+Tada Teruki (多田　瑛貴) C/C++ Programmer <br>
+<br>
 Twitter : https://twitter.com/perukii_pc<br>
 Qiita : https://qiita.com/Perukii<br>
 GitHub (for Public purpose) : https://github.com/TadaTeruki<br>
