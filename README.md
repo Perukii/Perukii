@@ -4,7 +4,7 @@
 
 C/C++/Go/Javascript <br>
 <br>
-Other account (for research) : https://github.com/TadaTeruki<br>
+Another account (for research) : https://github.com/TadaTeruki<br>
 
 ### Status
 
