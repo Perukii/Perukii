@@ -23,6 +23,5 @@ Another account (for research) : https://github.com/TadaTeruki<br>
 
 
 ### Other work
-
-[![mulpsi](https://github-readme-stats.vercel.app/api/pin/?username=TadaTeruki&repo=mulpsi)](https://github.com/TadaTeruki/mulpsi)
+[![CurtainRail](https://github-readme-stats.vercel.app/api/pin/?username=TadaTeruki&repo=CurtainRail)](https://github.com/TadaTeruki/CurtainRail)
 [![sanmitsu-wm](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=sanmitsu-wm)](https://github.com/Perukii/sanmitsu-wm)
