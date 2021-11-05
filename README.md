@@ -1,6 +1,4 @@
-# Tada Teruki
 
-**Tada Teruki** (多田 瑛貴) 
 
 C/C++/Go/Javascript <br>
 <br>
