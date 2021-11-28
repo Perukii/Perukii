@@ -4,7 +4,6 @@ C/C++/Go/Javascript <br>
 <br>
 Another account (for research) : https://github.com/TadaTeruki<br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perukii&hide=html,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Major works
 
@@ -22,3 +21,4 @@ Another account (for research) : https://github.com/TadaTeruki<br>
 
 ![Perukii's github stats](https://github-readme-stats.vercel.app/api?username=Perukii&show_icons=true&theme=radical)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perukii&hide=html,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)
