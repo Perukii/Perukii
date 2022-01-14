@@ -1,9 +1,12 @@
 
+___
 
-C/C++/Go/Javascript <br>
-<br>
-Another account (for research) : https://github.com/TadaTeruki<br>
+**⚠このアカウントは古いです(現在使用されていません)。[TadaTeruki](https://github.com/TadaTeruki)** (https://github.com/TadaTeruki) **へ移行しました** <br>
 
+**⚠This account was absolutely migrated.** <br>
+**&emsp;&nbsp;The new account is [TadaTeruki](https://github.com/TadaTeruki)** (https://github.com/TadaTeruki)<br>
+
+___
 
 ### Major works
 
